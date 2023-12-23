@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.aa3_errt"
+    namespace = "com.enti.vintitres.cdi.arnauvilar.aniolmorato.aatres.errt"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.aa3_errt"
+        applicationId = "com.enti.vintitres.cdi.arnauvilar.aniolmorato.aatres.errt"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
